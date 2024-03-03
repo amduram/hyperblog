@@ -4,3 +4,4 @@ Tiene 34 años y espera terminar de aprender Python antes de los 35.
 Nació en Colombia y he vivido en Cali y Tuluá
 
 Hoy estoy aprendiendo git, github y html.
+¿Para cuando Python?
