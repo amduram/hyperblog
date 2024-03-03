@@ -1,5 +1,6 @@
-Esta es la historia de Adres Duran
+Esta es la historia de Andrés Durán
 
-Tiene 34 años y espera terminar de aprender Python antes de los 35
+Tiene 34 años y espera terminar de aprender Python antes de los 35.
+Nació en Colombia y he vivido en Cali y Tuluá
 
-Hoy estoy aprendiendo git y giyhub
+Hoy estoy aprendiendo git y github
