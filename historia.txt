@@ -5,5 +5,7 @@ Nació en Colombia, ha vivido en Cali y  Tuluá
 
 Main 1
 
+Main 2
+
 Hoy estoy aprendiendo git, github y html.
 ¿Para cuando Python?
