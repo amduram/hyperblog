@@ -1,7 +1,9 @@
 Esta es la historia de Andrés Durán
 
 Tiene 34 años y espera terminar de aprender Python antes de los 35.
-Nació en Colombia y he vivido en Cali y Tuluá
+Nació en Colombia, ha vivido en Cali y  Tuluá
+
+Main 1
 
 Hoy estoy aprendiendo git, github y html.
 ¿Para cuando Python?
